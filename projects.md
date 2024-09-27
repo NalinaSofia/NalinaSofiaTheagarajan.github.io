@@ -10,3 +10,8 @@ Created projects.md file and added description.
 
 Then did add commit and git push to save the changes to repo.
 
+Enabled GitHub pages in settings, in the source dropdown selected main branch and root
+
+website was created
+
+visited the website
